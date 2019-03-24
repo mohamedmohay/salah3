@@ -25,7 +25,8 @@ SECRET_KEY = 'xov=#hvtalx@blm0k7=b5_7)ufmzwn1$jhl+661pogo-acyv8f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['salah3.herokuapp.com']
+
+ALLOWED_HOSTS = ['shielded-shore-60117.herokuapp.com','.salah3.com']
 
 
 # Application definition
