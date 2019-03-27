@@ -26,7 +26,7 @@ SECRET_KEY = 'xov=#hvtalx@blm0k7=b5_7)ufmzwn1$jhl+661pogo-acyv8f'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['shielded-shore-60117.herokuapp.com','.salah3.com']
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
